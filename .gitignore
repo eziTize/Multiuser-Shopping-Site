@@ -1,4 +1,10 @@
 /vendor/
+database/
+public/
+routes/
+storage/
+config/
+bootstrap/
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -21,3 +27,6 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# views & Js
+resources
